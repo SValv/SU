@@ -1,0 +1,10 @@
+Package: SU
+Type: Package
+Title: Utilities for daily use
+Version: 0.1.0
+Author: as.person("Simon Valverde")
+Maintainer: Simon Valverde <s.valverde146@gmail.com>
+Description: SUtils is a Package that has a range of neat utilites to make your life easyer
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
