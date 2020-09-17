@@ -3,6 +3,7 @@
 \title{Load and Update Packages}
 \usage{
 nload(... , dependencies = TRUE, update = TRUE)
+}
 \description{
 A loader function with a auto-update functionality that loads packages if they are installed, and installs and updates them beforehand if they are missing/outdated.
 }
